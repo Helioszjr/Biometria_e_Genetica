@@ -1,7 +1,6 @@
 # Modelos Biométricos Aplicados ao Melhoramento Genético
 # Experimentação em Genética e Melhoramento de Plantas
 
-![livro png](https://user-images.githubusercontent.com/54208959/63212361-ccec8680-c0d9-11e9-97fb-5c1f7286da4c.jpg)
 ---
 
 Repositório dedicado ao ensino na área de Modelos Biométricos Aplicados ao Melhoramento Genético e Experimentação em Genética e Melhoramento de Plantas. 
