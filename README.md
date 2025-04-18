@@ -19,7 +19,7 @@ Este repositório conta com diversas rotinas do software R voltadas para o auxil
 - contato: helioszjr@gmail.com
 - Lattes: http://lattes.cnpq.br/1667801399498296
 
-- Yana Borges - Doutorando em Genética e Melhoramento de Plantas da Universidade Estadual de Maringá 
+- Yana Borges - Doutoranda em Agronomia da Universidade Estadual de Maringá 
 - contato: borges.yana@gmail.com
 - Lattes: http://lattes.cnpq.br/5830383292132474
 
