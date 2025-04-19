@@ -1,4 +1,4 @@
-Repositório dedicado ao ensino na área de Modelos Biométricos Aplicados ao Melhoramento Genético e Experimentação em Genética e Melhoramento de Plantas. 
+Repositório dedicado ao ensino na área de Experimentação em Genética e Melhoramento de Plantas e Modelos Biométricos Aplicados ao Melhoramento Genético. 
 
 ![](biometrica.png)
 
