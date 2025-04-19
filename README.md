@@ -1,6 +1,6 @@
 Repositório dedicado ao ensino na área de Modelos Biométricos Aplicados ao Melhoramento Genético e Experimentação em Genética e Melhoramento de Plantas. 
 
-![](biometria.png)
+![](biometrica.png)
 
 # Modelos Biométricos Aplicados ao Melhoramento Genético
 **Referências Bibliográficas:** Cruz, C. D., Carneiro, P. C. S., & Regazzi, A. J. (2014). Modelos biométricos aplicados ao melhoramento genético (Vol. 2, 3ª ed.). Viçosa, MG: Editora UFV. 
